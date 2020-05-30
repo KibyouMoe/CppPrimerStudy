@@ -1,0 +1,2 @@
+D:\Git\CppPrimerStudy\StudyDemo\Debug\StudyDemo.exe
+D:\Git\CppPrimerStudy\StudyDemo\Debug\StudyDemo.pdb
